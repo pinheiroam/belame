@@ -89,7 +89,7 @@ class Belame extends Component {
                         </div>
                         {/* <!-- Coded & Maintained End --> */}
                         {/* <!-- Our Product Gallery --> */}
-                        <div className="section-full content-inner our-product-gallery">
+                        {/* <div className="section-full content-inner our-product-gallery">
                             <div className="setResizeMargin">
                                 <div className="section-head title-bx">
                                     <h2>Our Product Gallery</h2>
@@ -101,7 +101,7 @@ class Belame extends Component {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                         {/* <!-- Our Product Gallery END --> */}
                         {/* <!-- Our Branded Products --> */}
                         <div className="section-full business-pro-blog" style={{ backgroundImage: "url(" + './images/background/bg6.png' + ")" }}>
@@ -109,7 +109,7 @@ class Belame extends Component {
                             <div className="content-inner business-product">
                                 <div className="container">
                                     <div className="section-head title-bx text-center">
-                                        <h2>Our Branded Products</h2>
+                                        <h2>Nossos Produtos</h2>
                                     </div>
                                     <div className="row align-items-center d-flex">
                                         <div className="col-md-12 col-lg-3">

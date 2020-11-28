@@ -14,17 +14,17 @@ class Header4 extends Component {
                 <header className="site-header header-transparent header mo-left header-seo">
                     <div className="top-bar">
                         <div className="container">
-                            <div className="row d-flex justify-content-between">
-                                <div className="dlab-topbar-left">
+                            <div className="row d-flex justify-content-end">
+                                {/* <div className="dlab-topbar-left">
                                     <ul>
                                         <li><i className="flaticon-phone-call m-r5"></i> 001 1234 6789</li>
                                         <li><i className="ti-location-pin m-r5"></i> 6701 Democracy Blvd, Suite 300, USA</li>
                                     </ul>
-                                </div>
+                                </div> */}
                                 <div className="dlab-topbar-right">
                                     <ul>
-                                        <li><i className="ti-skype m-r5"></i> Agency.software</li>
-                                        <li><i className="ti-email m-r5"></i> info@example.com</li>
+                                        {/* <li><i className="ti-skype m-r5"></i> Agency.software</li> */}
+                                        <li><i className="ti-email m-r5"></i> belame@gmail.com</li>
                                     </ul>
                                 </div>
                             </div>
@@ -36,7 +36,7 @@ class Header4 extends Component {
                             <div className="container clearfix">
 
                                 <div className="logo-header mostion">
-                                    <Link to={'./'} className="dez-page"><img src="images/logo-color-5.png" alt="" /></Link>
+                                    <Link to={'./'} className="dez-page"><img src="images/logo.svg" alt="" /></Link>
                                 </div>
 
                                 <button className="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,15 +45,10 @@ class Header4 extends Component {
                                     <span></span>
                                 </button>
 
-                                {/* <div className="extra-nav">
-                                    <div className="extra-cell">
-                                        <Link to={'./contact'} className="dez-page site-button primary">Inquire Now </Link>
-                                    </div>
-                                </div> */}
-
+                                
                                 <div className="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
                                     <ul className="nav navbar-nav">
-                                        <li className="active"><Link to={'#'}><span className="ti-home"></span> <i className="fa fa-chevron-down"></i></Link>
+                                        {/* <li className="active"><Link to={'#'}><span className="ti-home"></span> <i className="fa fa-chevron-down"></i></Link>
                                             <ul className="sub-menu">
                                                 <li><Link to={'./'} className="dez-page">Home 1</Link></li>
                                                 <li><Link to={'./index-2'} className="dez-page">Home 2</Link></li>
@@ -63,7 +58,7 @@ class Header4 extends Component {
                                                 <li><Link to={'./index-6'} className="dez-page">Home 6 <span className="new-page">New</span></Link></li>
                                                 <li><Link to={'./index-7'} className="dez-page">Home 7 <span className="new-page">New</span></Link></li>
                                             </ul>
-                                        </li>
+                                        </li> */}
                                         <li><Link to={'#'}>Pages <i className="fa fa-chevron-down"></i></Link>
                                             <ul className="sub-menu">
                                                 <li><Link to={'#'}>About Us <i className="fa fa-angle-right"></i></Link>

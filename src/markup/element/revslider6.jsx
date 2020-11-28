@@ -63,7 +63,7 @@ class ReactRevSlider6 extends Component {
 										data-paddingbottom="[0,0,0,0]"
 										data-paddingleft="[0,0,0,0]"
 										style={{ "zIndex": "6", "whiteSpace": "nowrap", "fontSize": "22px", "lineHeight": "28px", "fontWeight": "400", "color": "#848484", "fontFamily": "'Poppins', sans-serif" }}>
-										<div class="rs-looped rs-wave" data-speed="3" data-angle="0" data-radius="2px" data-origin="50% 50%">We’re Awesome & Professionals</div>
+										<div class="rs-looped rs-wave" data-speed="3" data-angle="0" data-radius="2px" data-origin="50% 50%">A sua beleza merece o que há de melhor.</div>
 									</div>
 									<div class="tp-caption tp-resizeme rs-parallaxlevel-1 text-primary"
 										id="slide-100-layer-3"
@@ -85,7 +85,7 @@ class ReactRevSlider6 extends Component {
 										data-paddingbottom="[0,0,0,0]"
 										data-paddingleft="[0,0,0,0]"
 										style={{ "zIndex": "6", "whiteSpace": "nowrap", "fontSize": "205px", "lineHeight": "240px", "fontWeight": "400", "fontFamily": "'Poppins', sans-serif" }}>
-										<div class="rs-looped rs-wave" data-speed="3" data-angle="0" data-radius="2px" data-origin="50% 50%">Best ICO Strategy</div>
+										<div class="rs-looped rs-wave" data-speed="3" data-angle="0" data-radius="2px" data-origin="50% 50%">Cada vez + você</div>
 									</div>
 									<div class="tp-caption tp-resizeme rs-parallaxlevel-1 text-primary"
 										id="slide-100-layer-4"
@@ -107,7 +107,7 @@ class ReactRevSlider6 extends Component {
 										data-paddingbottom="[0,0,0,0]"
 										data-paddingleft="[0,0,0,0]"
 										style={{ "zIndex": "6", "whiteSpace": "nowrap", "fontSize": "205px", "lineHeight": "240px", "fontWeight": "700", "fontFamily": "'Poppins', sans-serif" }}>
-										<div class="rs-looped rs-wave" data-speed="3" data-angle="0" data-radius="2px" data-origin="50% 50%">On Blockchain</div>
+										<div class="rs-looped rs-wave" data-speed="3" data-angle="0" data-radius="2px" data-origin="50% 50%">+ Orgânico</div>
 									</div>
 
 
@@ -131,7 +131,8 @@ class ReactRevSlider6 extends Component {
 										data-paddingleft="[0,0,0,0]"
 										style={{ "zIndex": "6", "whiteSpace": "nowrap", "fontSize": "22px", "lineHeight": "28px", "fontWeight": "400", "color": "#5f5f5f", "fontFamily": "'Poppins', sans-serif" }}>
 										<div class="rs-looped rs-wave" data-speed="3" data-angle="0" data-radius="2px" data-origin="50% 50%">
-											Aliquam vulputate, tortor nec commodo ultricies, <br />vitae viverra urna nulla sed turpis. Nullam lacinia <br />faucibus risus, a euismod.</div>
+											A Belame é feita para a mulher que trilha seu próprio caminho,<br></br>
+											que vive no mundo real sem passarelas ou cheio delas.</div>
 									</div>
 
 
@@ -153,7 +154,7 @@ class ReactRevSlider6 extends Component {
 										data-paddingleft="[0,0,0,0]"
 										style={{ "zIndex": "5" }}>
 										<div class="rs-looped rs-wave" data-speed="10" data-angle="0" data-radius="5px" data-origin="">
-											<img src="images/main-slider/slide9.png" class="slide-img-curve" alt="" data-ww="['988px','700px','700px','600px']" data-hh="['731px','510px','510px','444px']" width="988" height="731" data-no-retina />
+											<img src="images/main-slider/imagem-topo.png" class="slide-img-curve" alt="" data-ww="['988px','700px','700px','600px']" data-hh="['731px','510px','510px','444px']" width="988" height="731" data-no-retina />
 										</div>
 									</div>
 
@@ -177,7 +178,7 @@ class ReactRevSlider6 extends Component {
 										data-paddingright="[0,0,0,0]"
 										data-paddingbottom="[0,0,0,0]"
 										data-paddingleft="[0,0,0,0]" style={{ "zIndex": "12", "fontSize": "16px" }}>
-										<Link href="#" class="site-button button-md radius-xl">Explore Now</Link>
+										<Link href="#" class="site-button button-md radius-xl">Saiba Mais</Link>
 									</div>
 
 									{/* <!-- LAYER NR. 8 --> */}
