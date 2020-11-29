@@ -130,7 +130,7 @@ class Belame extends Component {
                                                     <div className="product-price">
                                                         <h4>$67.00</h4>
                                                     </div>
-                                                    <a href="shop-product-details" className="site-button button-sm radius-xl">Shop Now</a>
+                                                    <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -139,22 +139,22 @@ class Belame extends Component {
                                                 <div className="col-lg-8 col-md-6 col-sm-12">
                                                     <div className="product-box product-lg product-right wow zoomIn" data-wow-delay="0.2s">
                                                         <div className="product-details">
-                                                            <h4 className="product-title"><a href="shop-product-details">Product Name here</a></h4>
-                                                            <span className="product-tage">Sports Watch</span>
+                                                            <h4 className="product-title"><a href="shop-product-details">Extreme Organic</a></h4>
+                                                            <span className="product-tage">Liss Mask</span>
                                                             <ul className="rating-star">
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
-                                                                <li><i className="fa fa-star"></i></li>
+                                                                <li className="active"><i className="fa fa-star"></i></li>
                                                             </ul>
                                                             <div className="product-price">
-                                                                <h4>$67.00</h4>
+                                                                <h4>R$115,00</h4>
                                                             </div>
-                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Shop Now</a>
+                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
                                                         </div>
                                                         <div className="product-img">
-                                                            <img src="images/product/watch/item2.jpg" alt="" />
+                                                            <img src="images/product/belame/item2.jpg" alt="" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -171,12 +171,12 @@ class Belame extends Component {
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
-                                                                <li><i className="fa fa-star"></i></li>
+                                                                <li className="active"><i className="fa fa-star"></i></li>
                                                             </ul>
                                                             <div className="product-price">
                                                                 <h4>$67.00</h4>
                                                             </div>
-                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Shop Now</a>
+                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -198,29 +198,29 @@ class Belame extends Component {
                                                             <div className="product-price">
                                                                 <h4>$67.00</h4>
                                                             </div>
-                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Shop Now</a>
+                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div className="col-lg-8 col-md-6 col-sm-12">
                                                     <div className="product-box product-lg product-right wow zoomIn" data-wow-delay="0.4s">
                                                         <div className="product-details">
-                                                            <h4 className="product-title"><a href="shop-product-details">Product Name here</a></h4>
-                                                            <span className="product-tage">Sports Watch</span>
+                                                            <h4 className="product-title"><a href="shop-product-details">Plastic Liss Gloss</a></h4>
+                                                            <span className="product-tage">Shampoo Antirresiduos</span>
                                                             <ul className="rating-star">
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
-                                                                <li><i className="fa fa-star"></i></li>
+                                                                <li className="active"><i className="fa fa-star"></i></li>
                                                             </ul>
                                                             <div className="product-price">
-                                                                <h4>$67.00</h4>
+                                                                <h4>R$67.00</h4>
                                                             </div>
-                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Shop Now</a>
+                                                            <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
                                                         </div>
                                                         <div className="product-img">
-                                                            <img src="images/product/watch/item6.jpg" alt="" />
+                                                            <img src="images/product/belame/item6.jpg" alt="" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -229,22 +229,22 @@ class Belame extends Component {
                                         <div className="col-md-12 col-lg-3">
                                             <div className="product-box wow zoomIn" data-wow-delay="1s">
                                                 <div className="product-details">
-                                                    <h4 className="product-title"><a href="shop-product-details">Product Name here</a></h4>
-                                                    <span className="product-tage">Sports Watch</span>
+                                                    <h4 className="product-title"><a href="shop-product-details">Plastic Liss Gloss</a></h4>
+                                                    <span className="product-tage">Anti Frizz</span>
                                                     <ul className="rating-star">
                                                         <li className="active"><i className="fa fa-star"></i></li>
                                                         <li className="active"><i className="fa fa-star"></i></li>
                                                         <li className="active"><i className="fa fa-star"></i></li>
                                                         <li className="active"><i className="fa fa-star"></i></li>
-                                                        <li><i className="fa fa-star"></i></li>
+                                                        <li className="active"><i className="fa fa-star"></i></li>
                                                     </ul>
                                                     <div className="product-price">
-                                                        <h4>$67.00</h4>
+                                                        <h4>R$67,00</h4>
                                                     </div>
-                                                    <a href="shop-product-details" className="site-button button-sm radius-xl">Shop Now</a>
+                                                    <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
                                                 </div>
                                                 <div className="product-img">
-                                                    <img src="images/product/watch/item4.jpg" alt="" />
+                                                    <img src="images/product/belame/item4.jpg" alt="" />
                                                 </div>
                                             </div>
                                         </div>
