@@ -1,62 +1,62 @@
 import React, { Component } from 'react'
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Belame from './pages/belame';
-import Index from './pages/index';
-import Index2 from './pages/index-2';
-import Index3 from './pages/index-3';
-import Index4 from './pages/index-4';
-import Index5 from './pages/index-5';
-import Index6 from './pages/index-6';
-import Index7 from './pages/index-7';
-import About1 from './pages/about1';
-import About2 from './pages/about2';
-import BlogClassicGrid from './pages/blog-classic-grid';
-import BlogClassicLeftSidebar from './pages/blog-classic-left-sidebar';
-import BlogClassicRightSidebar from './pages/blog-classic-right-sidebar';
-import BlogDetails from './pages/blog-details';
-import BlogListLeftSidebar from './pages/blog-list-left-sidebar';
-import BlogListRightSidebar from './pages/blog-list-right-sidebar';
-import BlogStandardLeftSidebar from './pages/blog-standard-left-sidebar';
-import BlogStandardRightSidebar from './pages/blog-standard-right-sidebar';
-import BlogStandard from './pages/blog-standard';
-import ComingSoon2 from './pages/coming-soon-2';
-import Contact from './pages/contact';
-import Error403 from './pages/error-403';
-import Error404 from './pages/error-404';
-import Error405 from './pages/error-405';
-import Expertise from './pages/expertise';
-import Faqs from './pages/faqs';
-import Login from './pages/login';
-import Register from './pages/register';
-import OurProjects from './pages/our-projects';
-import ProtfolioFullWidth from './pages/portfolio-full-width';
-import PortfolioGrid2 from './pages/portfolio-grid-2';
-import PortfolioGrid3 from './pages/portfolio-grid-3';
-import PortfolioGrid4 from './pages/portfolio-grid-4';
-import ProjectDetails from './pages/project-details';
-import ProjectManagement from './pages/project-management';
-import Service from './pages/service';
-import ServicesDetails from './pages/services-details';
-import ShopCart from './pages/shop-cart';
-import ShopCheckout from './pages/shop-checkout';
-import ShopColumnsSidebar from './pages/shop-columns-sidebar';
-import ShopColumns from './pages/shop-columns';
-import ShopLogin from './pages/shop-login';
-import ShopProductDetails from './pages/shop-product-details';
-import ShopRegister from './pages/shop-register';
-import ShopWishlist from './pages/shop-wishlist';
-import Team from './pages/team';
-import UnderMaintenance from './pages/under-maintenance';
-import ShortAccordions from './pages/short-accordions';
-import ShortCounter from './pages/short-counter';
-import ShortForm from './pages/short-form';
-import ShortIconBox from './pages/short-icon-box';
-import ShortPortfolio from './pages/short-portfolio';
-import ShortTabs from './pages/short-tabs';
-import ShortTeam from './pages/short-team';
-import ShortTestimonial from './pages/short-testimonial';
-import ReactRevSlider2 from './element/revslider2';
-import Filter from './element/filter';
+// import Index from './pages/index';
+// import Index2 from './pages/index-2';
+// import Index3 from './pages/index-3';
+// import Index4 from './pages/index-4';
+// import Index5 from './pages/index-5';
+// import Index6 from './pages/index-6';
+// import Index7 from './pages/index-7';
+// import About1 from './pages/about1';
+// import About2 from './pages/about2';
+// import BlogClassicGrid from './pages/blog-classic-grid';
+// import BlogClassicLeftSidebar from './pages/blog-classic-left-sidebar';
+// import BlogClassicRightSidebar from './pages/blog-classic-right-sidebar';
+// import BlogDetails from './pages/blog-details';
+// import BlogListLeftSidebar from './pages/blog-list-left-sidebar';
+// import BlogListRightSidebar from './pages/blog-list-right-sidebar';
+// import BlogStandardLeftSidebar from './pages/blog-standard-left-sidebar';
+// import BlogStandardRightSidebar from './pages/blog-standard-right-sidebar';
+// import BlogStandard from './pages/blog-standard';
+// import ComingSoon2 from './pages/coming-soon-2';
+// import Contact from './pages/contact';
+// import Error403 from './pages/error-403';
+// import Error404 from './pages/error-404';
+// import Error405 from './pages/error-405';
+// import Expertise from './pages/expertise';
+// import Faqs from './pages/faqs';
+// import Login from './pages/login';
+// import Register from './pages/register';
+// import OurProjects from './pages/our-projects';
+// import ProtfolioFullWidth from './pages/portfolio-full-width';
+// import PortfolioGrid2 from './pages/portfolio-grid-2';
+// import PortfolioGrid3 from './pages/portfolio-grid-3';
+// import PortfolioGrid4 from './pages/portfolio-grid-4';
+// import ProjectDetails from './pages/project-details';
+// import ProjectManagement from './pages/project-management';
+// import Service from './pages/service';
+// import ServicesDetails from './pages/services-details';
+// import ShopCart from './pages/shop-cart';
+// import ShopCheckout from './pages/shop-checkout';
+// import ShopColumnsSidebar from './pages/shop-columns-sidebar';
+// import ShopColumns from './pages/shop-columns';
+// import ShopLogin from './pages/shop-login';
+// import ShopProductDetails from './pages/shop-product-details';
+// import ShopRegister from './pages/shop-register';
+// import ShopWishlist from './pages/shop-wishlist';
+// import Team from './pages/team';
+// import UnderMaintenance from './pages/under-maintenance';
+// import ShortAccordions from './pages/short-accordions';
+// import ShortCounter from './pages/short-counter';
+// import ShortForm from './pages/short-form';
+// import ShortIconBox from './pages/short-icon-box';
+// import ShortPortfolio from './pages/short-portfolio';
+// import ShortTabs from './pages/short-tabs';
+// import ShortTeam from './pages/short-team';
+// import ShortTestimonial from './pages/short-testimonial';
+// import ReactRevSlider2 from './element/revslider2';
+// import Filter from './element/filter';
 
 
 class Markup extends Component {
@@ -66,7 +66,7 @@ class Markup extends Component {
             <BrowserRouter>
                 <Switch>
                     <Route path='/' exact component={Belame} />
-                    <Route path='/index' exact component={Index} />
+                    {/* <Route path='/index' exact component={Index} />
                     <Route path='/index-2' exact component={Index2} />
                     <Route path='/index-3' exact component={Index3} />
                     <Route path='/index-4' exact component={Index4} />
@@ -121,7 +121,7 @@ class Markup extends Component {
                     <Route path='/short-team' component={ShortTeam} />
                     <Route path='/short-testimonial' component={ShortTestimonial} />
                     <Route path='/rev' component={ReactRevSlider2} />
-                    <Route path='/filter' component={Filter} />
+                    <Route path='/filter' component={Filter} /> */}
                 </Switch>
             </BrowserRouter>
 
