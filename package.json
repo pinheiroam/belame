@@ -1,20 +1,22 @@
 {
-  "name": "agency",
-  "homepage": "https://agency.dexignlab.com/react/",
+  "name": "Belame",
+  "homepage": "https://belameprofessional.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jquery": "^3.5.1",
-    "react": "^16.14.0",
+    "jquery": "^3.4.1",
+    "react": "^16.12.0",
     "react-animated-slider": "^1.1.4",
-    "react-dom": "^16.14.0",
+    "react-dom": "^16.12.0",
     "react-image-lightbox": "^5.1.1",
     "react-owl-carousel": "^2.3.1",
-    "react-responsive-carousel": "^3.2.10",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.4.4",
+    "react-responsive-carousel": "^3.1.51",
+    "react-router-dom": "^5.1.2",
+    "react-router-hash-link": "^2.2.2",
+    "react-scripts": "^3.3.0",
     "react-slick": "^0.25.2",
-    "simple-react-google-maps": "^1.1.2"
+    "simple-react-google-maps": "^1.1.2",
+    "styled-components": "^5.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
