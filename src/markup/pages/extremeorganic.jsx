@@ -120,8 +120,8 @@ class ExtremeOrganic extends Component {
 
                     {/* <!-- Our Branded Products --> */}
                     <div className="section-full business-pro-blog" id="nossos-produtos" style={{ backgroundImage: "url(" + './images/background/bg6.png' + ")", backgroundSize: "cover", backgroundPosition: "center" }}>
-                        {/* <!-- Our Branded Products --> */}
-                        <div className="content-inner business-product">
+                         {/* <!-- Our Branded Products --> */}
+                         <div className="content-inner business-product">
                                 <div className="container">
                                     <div className="section-head title-bx text-center">
                                         <h2>Nossos Produtos</h2>
@@ -134,7 +134,7 @@ class ExtremeOrganic extends Component {
                                                 </div>
                                                 <div className="product-details">
                                                     <h4 className="product-title"><a>B'TOXX Capilar</a></h4>
-                                                    <span className="product-tage">Bioplástica Capilar</span>
+                                                    <span className="product-tage">UNIDADE</span>
                                                      <ul className="rating-star">
                                                         {/* <li className="active"><i className="fa fa-star"></i></li>
                                                         <li className="active"><i className="fa fa-star"></i></li>
@@ -156,7 +156,7 @@ class ExtremeOrganic extends Component {
                                                     <div className="product-box product-lg product-right wow zoomIn" data-wow-delay="0.2s">
                                                         <div className="product-details">
                                                             <h4 className="product-title"><a>Extreme Organic</a></h4>
-                                                            <span className="product-tage">Liss Mask</span>
+                                                            <span className="product-tage">UNIDADE</span>
                                                              <ul className="rating-star">
                                                                 {/* <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
@@ -165,10 +165,10 @@ class ExtremeOrganic extends Component {
                                                                 <li className="active"><i className="fa fa-star"></i></li> */}
                                                             </ul>
                                                             <div className="product-price">
-{/*                                                                 <h4>R$115,00</h4>
- */}                                                            </div>
-{/*                                                             <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
- */}                                                        </div> 
+                                                                <h4>R$149.89</h4>
+                                                            </div>
+                                                            <a href="https://www.bemarke.com/loja/belame/product/uyTq3MMmsNGguRKz5" className="site-button button-sm radius-xl">Comprar</a>
+                                                        </div> 
                                                       
                                                         <div className="product-img">
                                                             <img src="images/product/belame/item2.jpg" alt="" />
@@ -182,7 +182,7 @@ class ExtremeOrganic extends Component {
                                                         </div>
                                                         <div className="product-details">
                                                             <h4 className="product-title"><a>Broto de bambu</a></h4>
-                                                            <span className="product-tage">Tratamento</span>
+                                                            <span className="product-tage">UNIDADE</span>
                                                              <ul className="rating-star">
                                                                 {/* <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
@@ -205,7 +205,7 @@ class ExtremeOrganic extends Component {
                                                         </div>
                                                         <div className="product-details">
                                                             <h4 className="product-title"><a>SOS Capilar</a></h4>
-                                                            <span className="product-tage">Reparação</span>
+                                                            <span className="product-tage">KIT</span>
                                                              <ul className="rating-star">
                                                                 {/* <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
@@ -224,8 +224,8 @@ class ExtremeOrganic extends Component {
                                                 <div className="col-lg-8 col-md-6 col-sm-12">
                                                     <div className="product-box product-lg product-right wow zoomIn" data-wow-delay="0.4s">
                                                         <div className="product-details">
-                                                            <h4 className="product-title"><a>Plastic Liss Gloss</a></h4>
-                                                            <span className="product-tage">Shampoo Antirresiduos</span>
+                                                            <h4 className="product-title" style={{ lineHeight: "24px", }}><a>Shampoo Antirresíduos + Gloss Anti Frizz</a></h4>
+                                                            <span className="product-tage">KIT</span>
                                                              <ul className="rating-star">
                                                                 {/* <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li>
@@ -234,10 +234,10 @@ class ExtremeOrganic extends Component {
                                                                 <li className="active"><i className="fa fa-star"></i></li> */}
                                                             </ul>
                                                             <div className="product-price">
-{/*                                                                 <h4>R$67.00</h4>
- */}                                                            </div> 
-{/*                                                             <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a>
- */}                                                           
+                                                                <h4>R$149.89</h4>
+                                                            </div> 
+                                                            <a href="https://www.bemarke.com/loja/belame/product/3cWgqeMg9iytnuF9D" className="site-button button-sm radius-xl">Comprar</a>
+                                                           
                                                         </div>
                                                         <div className="product-img">
                                                             <img src="images/product/belame/item6.jpg" alt="" />
@@ -246,23 +246,24 @@ class ExtremeOrganic extends Component {
                                                 </div>
                                             </div>
                                         </div>
+
                                         <div className="col-md-12 col-lg-3">
                                             <div className="product-box wow zoomIn" data-wow-delay="1s">
                                                 <div className="product-details">
                                                     <h4 className="product-title"><a>Plastic Liss Gloss</a></h4>
-                                                    <span className="product-tage">Anti Frizz</span>
+                                                    <span className="product-tage">UNIDADE</span>
                                                    
-                                                    <ul className="rating-star">
-                                                       {/*  <li className="active"><i className="fa fa-star"></i></li>
+                                                    {/* <ul className="rating-star">
                                                         <li className="active"><i className="fa fa-star"></i></li>
                                                         <li className="active"><i className="fa fa-star"></i></li>
                                                         <li className="active"><i className="fa fa-star"></i></li>
-                                                        <li className="active"><i className="fa fa-star"></i></li> */}
-                                                    </ul>
-                                                    <div className="product-price">
-                                                      {/*   <h4>R$67,00</h4> */}
+                                                        <li className="active"><i className="fa fa-star"></i></li>
+                                                        <li className="active"><i className="fa fa-star"></i></li>
+                                                    </ul> */}
+                                                    {/* <div className="product-price">
+                                                        <h4>R$149,89</h4>
                                                     </div> 
-                                                    {/* <a href="shop-product-details" className="site-button button-sm radius-xl">Comprar</a> */}
+                                                    <a href="https://www.bemarke.com/loja/belame/product/3cWgqeMg9iytnuF9D" className="site-button button-sm radius-xl">Comprar</a> */}
                                                
                                                 </div>
                                                 <div className="product-img">

@@ -30,7 +30,7 @@
     -webkit-box-shadow: 0px 10px 7px -3px rgba(254,244,243,1);
     -moz-box-shadow: 0px 10px 7px -3px rgba(254,244,243,1);
     box-shadow: 0px 10px 7px -3px rgba(254,244,243,1);
-    border-radius: 20px 160px 10px 60px;
+    border-radius: 5px;
 }
 
 .embed-responsive {
@@ -43,7 +43,7 @@
     left: 0;
     width: 300px;
     height: 534px;
-    border-radius: 20px 160px 10px 60px;
+    border-radius: 5px;
 }
 
 @media only screen and (max-width: 425px) {
