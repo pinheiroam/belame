@@ -144,7 +144,7 @@ class Header4 extends Component {
                                                         aria-controls="navbarNavDropdown" 
                                                         aria-expanded="true" 
                                                         aria-label="Toggle navigation"
-                                                        className="collapsed">Contato</Link></li>
+                                                        className="collapsed">Contato*</Link></li>
                                     </ul>
                                 </div>
                             </div>
