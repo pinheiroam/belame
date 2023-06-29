@@ -39,6 +39,14 @@ class Header4 extends Component {
                 <div className='dlab-topbar-right'>
                   <ul>
                     <li>
+                      <i className="fa fa-instagram" style={{marginRight: '5px'}}/>
+                      <a href={'https://www.instagram.com/belameoficial/'} target='blank'>@belameoficial</a>
+                    </li>
+                  </ul>
+                </div>
+                <div className='dlab-topbar-right'>
+                  <ul>
+                    <li>
                       <i className="fa fa-whatsapp" style={{marginRight: '5px'}}/>
                       <a href={`https://wa.me/${CONTATOS.WHATSAPP.raw}`} target='blank'>{CONTATOS.WHATSAPP.formatted}</a>
                     </li>
