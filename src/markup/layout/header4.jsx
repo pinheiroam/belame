@@ -97,22 +97,8 @@ class Header4 extends Component {
                     </li>
                     <li><Link to={'#'}>Nossos Produtos <i className='fa fa-chevron-down'></i></Link>
                       <ul className='sub-menu'>
-                        <li><Link to={'./#nossos-produtos'} className='dez-page' onClick={() => this.onToggle()}
-                                  type='button'
-                                  data-toggle='collapse'
-                                  data-target='#navbarNavDropdown'
-                                  aria-controls='navbarNavDropdown'
-                                  aria-expanded='true'
-                                  aria-label='Toggle navigation'
-                                  className='collapsed'>Extreme Organic</Link></li>
-                        <li><Link to={'./#nossos-produtos'} className='dez-page' onClick={() => this.onToggle()}
-                                  type='button'
-                                  data-toggle='collapse'
-                                  data-target='#navbarNavDropdown'
-                                  aria-controls='navbarNavDropdown'
-                                  aria-expanded='true'
-                                  aria-label='Toggle navigation'
-                                  className='collapsed'>Plastic Liss Gloss</Link></li>
+                        <li><a href={'./extremeorganic'}>Extreme Organic</a></li>
+                        <li><a href={'./lissgloss'}>Plastic Liss Gloss</a></li>
                         <li><Link to={'./#nossos-produtos'} className='dez-page' onClick={() => this.onToggle()}
                                   type='button'
                                   data-toggle='collapse'
