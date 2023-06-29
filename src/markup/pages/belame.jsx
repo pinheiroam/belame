@@ -4,7 +4,6 @@ import Header4 from '../layout/header4';
 import Footer5 from '../layout/footer5';
 
 import ReactRevSlider6 from '../element/revslider6';
-import HomeCarousel3 from '../element/home-carousel3';
 
 class Belame extends Component {
 
@@ -329,6 +328,35 @@ class Belame extends Component {
                                             </div>
                                         </div>
                                     </div> */}
+                                </div>
+                            </div>
+                        </div>
+                        {/* <!-- Quem Somos --> */}
+                        <div id="quem-somos" className="content-inner business-blog">
+                            <div className="container">
+                                <div className="section-head title-bx text-center">
+                                    <h2>Quem Somos</h2>
+                                </div>
+                                <div>
+                                   <p>BELAME PROFISSIONAL HAIR , marca desenvolvida em 2019 na cidade de Dourados/MS, é a mais nova linha da ELON, Indústria de Cosméticos. Tem como propósito, levar aos seus clientes um novo conceito em tratamentos capilares que facilite o seu dia a dia, realçando sua beleza e bem-estar.</p>
+                                    <p>Em 2022,  BELAME recebeu seu registro no Instituto Nacional de Propriedade Industrial. O primeiro produto lançado pela BELAME é a ORGANIC EXTREME, uma progressiva orgânica de alta tecnologia e qualidade, para todo tipo de cabelo (sem ardência ou cheiro forte). Um excelente produto, aliado ao método de fácil aplicação por profissionais da beleza, ou mesmo por clientes acostumadas com o auto-cuidado, capaz de formar um liso com brilho e maciez, de maneira acessível, prática e menos agressivo aos fios, porque é um produto criado pensando em sua saúde.</p>
+                                </div>
+                            </div>
+                        </div>
+                        {/* <!-- Fale Conosco --> */}
+                        <div id="fale-conosco" className="content-inner business-blog">
+                            <div className="container">
+                                <div className="section-head title-bx text-center">
+                                    <h2>Fale Conosco</h2>
+                                </div>
+                                <div>
+                                    <p>BELAME, atualmente conta com os mais diversos produtos de alinhamento térmico capilar (as progressivas), manutenção, hidratação e restauração dos fios. Entre em contato conosco pelos seguintes telefones e WhatsApp:</p>
+                                    <ul style={{listStyleType: 'none'}}>
+                                        <li>Marco Aurélio: +55 67 9 8199-7782</li>
+                                        <li>Maurício: +55 67 9 9971-2775</li>
+                                        <li>Rosana: +55 67 9 9945-6263</li>
+                                    </ul>
+                                    <p>Para efetuar pedido ou em caso de dúvidas. Frete gratuito nas Cidades de Dourados e Campo Grande.</p>
                                 </div>
                             </div>
                         </div>

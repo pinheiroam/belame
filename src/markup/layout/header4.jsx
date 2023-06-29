@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
 import { CONTATOS } from '../../constants/contatos';
 
-// import {} from 'react-router-dom'
-
-
 class Header4 extends Component {
   constructor(props) {
     super(props);
@@ -84,7 +81,7 @@ class Header4 extends Component {
                       <ul className='sub-menu'>
                         <li>
                           <Link
-                            to={'./#sobre'}
+                            to={'./#quem-somos'}
                             type='button'
                             data-toggle='collapse'
                             data-target='#navbarNavDropdown'
@@ -163,15 +160,14 @@ class Header4 extends Component {
                                   className='collapsed'>Plastic Liss Gloss</Link></li>
                       </ul>
                     </li>
-                    <li><Link to={'./#contato'} type='button'
+                    <li><Link to={'./#fale-conosco'} type='button'
                       // data-toggle="collapse"
                               data-target='#navbarNavDropdown'
                               aria-controls='navbarNavDropdown'
                               aria-expanded='true'
                               aria-label='Toggle navigation'
                               className='collapsed'
-                    >Contato
-                    </Link></li>
+                    >Fale Conosco</Link></li>
                   </ul>
                 </div>
               </div>
