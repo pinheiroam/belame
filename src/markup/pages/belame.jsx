@@ -86,7 +86,19 @@ class Belame extends Component {
                             </div>
                         </div>
                         {/* <!-- Coded & Maintained End --> */}
-                        <br className="d-block d-lg-none"/> 
+                        <br className="d-block d-lg-none"/>
+                        <div className="section-full business-pro-blog" id="novidade" style={{ backgroundImage: "url(" + './images/background/bg6.png' + ")", backgroundSize: "cover", backgroundPosition: "center" }}>
+                            <div className="content-inner business-product">    
+                                <div className="container">
+                                    <div className="section-head title-bx text-center">
+                                        <h2>Novidade</h2>
+                                    </div>   
+                                    <div style={{display: 'flex', margin: 'auto', width: '50%'}}>
+                                        <img src="images/product/belame/coffe_liss.jpeg" width='720px' height='720px' alt="" style={{borderRadius: '20px', alignItems: 'center'}} />
+                                    </div>     
+                                </div>
+                            </div>
+                        </div>
                         {/* <!-- Our Branded Products --> */}
                         <div className="section-full business-pro-blog" id="nossos-produtos" style={{ backgroundImage: "url(" + './images/background/bg6.png' + ")", backgroundSize: "cover", backgroundPosition: "center" }}>
                             {/* <!-- Our Branded Products --> */}
