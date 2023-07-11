@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Belame from './pages/belame';
 import Lissgloss from './pages/lissgloss';
 import ExtremeOrganic from './pages/extremeorganic';
+import Coffeeliss from './pages/coffeeliss';
 
 
 class Markup extends Component {
@@ -13,6 +14,7 @@ class Markup extends Component {
                     <Route path='/' exact component={Belame} />
                     <Route path='/lissgloss' exact component={Lissgloss} />
                     <Route path='/extremeorganic' exact component={ExtremeOrganic} />
+                    <Route path='/coffeeliss' exact component={Coffeeliss} />
                 </Switch>
             </BrowserRouter>
 
