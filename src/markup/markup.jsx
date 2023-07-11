@@ -14,7 +14,7 @@ class Markup extends Component {
                     <Route path='/' exact component={Belame} />
                     <Route path='/lissgloss' exact component={Lissgloss} />
                     <Route path='/extremeorganic' exact component={ExtremeOrganic} />
-                    <Route path='/coffeeliss' exact component={Coffeeliss} />
+                    {/*<Route path='/coffeeliss' exact component={Coffeeliss} />*/}
                 </Switch>
             </BrowserRouter>
 
