@@ -73,6 +73,20 @@ class Coffeeliss extends Component {
             <div className="container">
               <div className="section-head text-center title-bx ">
                 <h2 className="box-title m-tb0 blog-number" style={{ color: '#6cc000' }}>
+                  Orientações<span className="bg-primary"></span>
+                </h2>
+              </div>
+              <p>
+                PARA CABELOS LOIROS COM TINTURA**
+              </p>
+              <p>
+              Cada profissional deve avaliar o estado do cabelo da cliente.
+                Caso avalie positivamente para aplicação do produto, deve escovar o cabelo completamente e deixar o produto agir somente por meia hora. 
+              </p>
+            </div>
+            <div className="container">
+              <div className="section-head text-center title-bx ">
+                <h2 className="box-title m-tb0 blog-number" style={{ color: '#6cc000' }}>
                   Passo a Passo<span className="bg-primary"></span>
                 </h2>
               </div>
@@ -93,8 +107,8 @@ class Coffeeliss extends Component {
                       <div className="icon-content m-b20 p-t5">
                         <h5 className="blog-number">01</h5>
                         <p>
-                          Não precisa lavar o cabelo. Coloque em recipiente o produto Belame.
-                          Separe o cabelo em mechas finas e aplique o produto homogeneamente. 
+                          Coloque em recipiente o produto Belame. Com o cabelo seco (não necessita lavagem prévia)
+                          separe em mechas finas e aplique o produto homogeneamente. 
                           SEMPRE IMPORTANTE DEIXAR A DISTÂNCIA DE 1 CM DO COURO CABELUDO.  
                         </p>
                       </div>
@@ -118,7 +132,7 @@ class Coffeeliss extends Component {
                         <h5 className=" blog-number">02</h5>
                         <p>
                           Coloque a touca sem pressionar o cabelo e deixe o produto agir por 30 minutos.
-                          Para cabelos 3c e/ou todas as classificações 4 - deixe agir por 45 minutos a 1 hora.
+                          Em cabelos de classificação 3c, 4a, 4b e 4c - deixe agir por 45 minutos a 1 hora.
                         </p>
                       </div>
                       {/* <a href="#" className="site-button">Read More</a> */}
@@ -164,7 +178,7 @@ class Coffeeliss extends Component {
                         <p>
                           Seque o cabelo completamente, sem escovar.
                           Separe mechas finas e pranche lentamente por 3 a 6 vezes cada mecha.
-                          LEMBRE SEMPRE DE PRANCHAR ADEQUADAMENTE O CABELO, DESDE A RAIZ, SEM FAZER DOBRAS OU MARCAS.
+                          LEMBRE SEMPRE DE PRANCHAR ADEQUADAMENTE O CABELO: DESDE A RAIZ, SEM FAZER DOBRAS OU MARCAS.
                         </p>
                       </div>
                       {/* <a href="#" className="site-button">Read More</a> */}
