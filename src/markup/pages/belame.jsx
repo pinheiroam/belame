@@ -145,10 +145,6 @@ class Belame extends Component {
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li> */}
                                                             </ul>
-                                                            <div className="product-price">
-                                                                <h4>R$149.89</h4>
-                                                            </div>
-                                                            <a href="https://www.bemarke.com/loja/belame/product/uyTq3MMmsNGguRKz5" className="site-button button-sm radius-xl">Comprar</a>
                                                         </div> 
                                                       
                                                         <div className="product-img">
@@ -214,11 +210,6 @@ class Belame extends Component {
                                                                 <li className="active"><i className="fa fa-star"></i></li>
                                                                 <li className="active"><i className="fa fa-star"></i></li> */}
                                                             </ul>
-                                                            <div className="product-price">
-                                                                <h4>R$149.89</h4>
-                                                            </div> 
-                                                            <a href="https://www.bemarke.com/loja/belame/product/3cWgqeMg9iytnuF9D" className="site-button button-sm radius-xl">Comprar</a>
-                                                           
                                                         </div>
                                                         <div className="product-img">
                                                             <img src="images/product/belame/item6.jpg" alt="" />
