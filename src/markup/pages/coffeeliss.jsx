@@ -73,12 +73,12 @@ class Coffeeliss extends Component {
             <div className="container">
               <div className="section-head text-center title-bx ">
                 <h2 className="box-title m-tb0 blog-number" style={{ color: '#6cc000' }}>
-                  Orientações<span className="bg-primary"></span>
+                  Orientações para cabelos loiros<span className="bg-primary"></span>
+                </h2>
+                <h2 className="box-title m-tb0 blog-number" style={{ color: '#6cc000' }}>
+                  com tintura<span className="bg-primary"></span>
                 </h2>
               </div>
-              <p>
-                PARA CABELOS LOIROS COM TINTURA**
-              </p>
               <p>
               Cada profissional deve avaliar o estado do cabelo da cliente.
                 Caso avalie positivamente para aplicação do produto, deve escovar o cabelo completamente e deixar o produto agir somente por meia hora. 
