@@ -73,10 +73,10 @@ class Coffeeliss extends Component {
             <div className="container">
               <div className="section-head text-center title-bx ">
                 <h2 className="box-title m-tb0 blog-number" style={{ color: '#6cc000' }}>
-                  Orientações para cabelos loiros<span className="bg-primary"></span>
+                  Orientações específicas para<span className="bg-primary"></span>
                 </h2>
                 <h2 className="box-title m-tb0 blog-number" style={{ color: '#6cc000' }}>
-                  com tintura<span className="bg-primary"></span>
+                  cabelos loiros com tintura<span className="bg-primary"></span>
                 </h2>
               </div>
               <p>
@@ -87,7 +87,7 @@ class Coffeeliss extends Component {
             <div className="container">
               <div className="section-head text-center title-bx ">
                 <h2 className="box-title m-tb0 blog-number" style={{ color: '#6cc000' }}>
-                  Passo a Passo<span className="bg-primary"></span>
+                  Passo a passo para todo tipo de cabelo<span className="bg-primary"></span>
                 </h2>
               </div>
               <div className="row justify-content-center">
@@ -109,6 +109,8 @@ class Coffeeliss extends Component {
                         <p>
                           Coloque em recipiente o produto Belame. Com o cabelo seco (não necessita lavagem prévia)
                           separe em mechas finas e aplique o produto homogeneamente. 
+                        </p>
+                        <p>
                           SEMPRE IMPORTANTE DEIXAR A DISTÂNCIA DE 1 CM DO COURO CABELUDO.  
                         </p>
                       </div>
@@ -177,8 +179,10 @@ class Coffeeliss extends Component {
                         <h5 className="blog-number">04</h5>
                         <p>
                           Seque o cabelo completamente, sem escovar.
-                          Separe mechas finas e pranche lentamente por 3 a 6 vezes cada mecha.
-                          LEMBRE SEMPRE DE PRANCHAR ADEQUADAMENTE O CABELO: DESDE A RAIZ, SEM FAZER DOBRAS OU MARCAS.
+                          Separe mechas finas e pranche lentamente por 3 a 6 vezes cada mecha em temperatura de 230°C/450°F.
+                        </p>
+                        <p>
+                        LEMBRE SEMPRE DE PRANCHAR ADEQUADAMENTE O CABELO: DESDE A RAIZ, SEM FAZER DOBRAS OU MARCAS.
                         </p>
                       </div>
                       {/* <a href="#" className="site-button">Read More</a> */}
