@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export function Whatsappbtn() {
     return(
         <>
-        <a href="https://wa.me/5567981376221" 
+        <a href="https://wa.me/5567984036769" 
             style={{
                 position: "fixed",
                 width:60,
