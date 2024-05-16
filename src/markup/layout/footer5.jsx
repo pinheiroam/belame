@@ -9,21 +9,23 @@ class Footer5 extends Component {
                     <div className="footer-top">
                         <div className="container wow fadeIn" data-wow-delay="0.5s">
                             <div className="row justify-content-between">
-                                <div className="col-5 col-lg-2 col-md-6 col-sm-6 footer-col-4">
+                                <div className="col-5 col-md-6 col-sm-6 col-lg-6 footer-col-4">
                                     <div className="widget widget_services border-0">
                                         <h5 className="m-b30 text-white">Belame</h5>
                                         <ul>
                                             <li><Link to={'./#'}>Home</Link></li>
-                                           {/*  <li><Link to="./#contato">Contato</Link></li> */}
+                                            <li><Link to="./#nossos-produtos">Nossos Produtos</Link></li>
                                             <li><Link to="./#passoapasso">Passo a Passo</Link></li>
+                                            <li><Link to="./#fale-conosco">Contato</Link></li>
+                                            <li><Link to="./">Política de Privacidade</Link></li>
                                         </ul>
                                     </div>
                                 </div>
                                 
                                 <div className="col-lg-4 col-md-6 col-sm-6 footer-col-4">
                                     <div className="widget">
-                                        {/*
-                                        <h5 className="m-b30 text-white">Inscreva-se para receber novidades</h5>
+                                        
+                                        {/* <h5 className="m-b30 text-white">Inscreva-se para receber novidades</h5>
                                         <p className="text-capitalize m-b20">Se tiver alguma dúvida entre em contato conosco que lhe responderemos o mais rápido possível.</p>
                                          <div className="subscribe-form m-b20">
                                             <form className="dzSubscribe" action="script/mailchamp.php" method="post">
@@ -51,7 +53,7 @@ class Footer5 extends Component {
                     <div className="footer-bottom bg-primary">
                         <div className="container">
                             <div className="row">
-                                <div className="col-lg-6 col-md-6 col-sm-6 text-left "> <span>Todos os direitos reservados © 2020 belame</span> </div>
+                                <div className="col-lg-6 col-md-6 col-sm-6 text-left "> <span>Todos os direitos reservados © 2024 belame</span> </div>
                                 
                             </div>
                         </div>
