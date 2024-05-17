@@ -5,6 +5,7 @@ import Lissgloss from './pages/lissgloss';
 import ExtremeOrganic from './pages/extremeorganic';
 import Coffeeliss from './pages/coffeeliss';
 import Milacro from './pages/milacro';
+import Footer1 from './layout/footer1';
 
 
 

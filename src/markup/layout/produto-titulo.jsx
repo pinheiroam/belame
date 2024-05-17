@@ -7,8 +7,6 @@ class ProdutoTitulo extends Component {
     return (
       <div className="page-content bg-white rubik-font">
         <br></br>
-        <br></br>
-        <br></br>
         <br class="d-none d-sm-block"></br>
         <br class="d-none d-sm-block"></br>
         <div
@@ -21,7 +19,7 @@ class ProdutoTitulo extends Component {
           <div className="container">
             <div className="row">
               <div
-                className="feature-img-bx wow zoomIn col-lg-6 wow fadeInUp text-center"
+                className="wow zoomIn col-lg-6 wow fadeInUp text-center"
                 data-wow-delay="1s"
                 data-wow-duration="3s">
                   <img src={this.props.image} alt={'Imagem do produto ' + this.props.name} />
