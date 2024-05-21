@@ -19,7 +19,7 @@ class Milacro extends Component {
 
           <ProdutoTitulo
             name='Milacro'
-            text='A solução que suas pontas precisavam. Aplicá -lo as pontas ressecadas faz com que ele entre em ação hidratando e repondo óleos essenciais para a sua recuperação. Sua composição tem ativos que ajudam na maciez, brilho e frizz do cabelo, deixando-o fortificado e pronto pra mais um dia de arrasar.'
+            text='A solução que suas pontas precisavam. Aplicá-lo as pontas ressecadas faz com que ele entre em ação hidratando e repondo óleos essenciais para a sua recuperação. Sua composição tem ativos que ajudam na maciez, brilho e frizz do cabelo, deixando-o fortificado e pronto pra mais um dia de arrasar.'
             image='images/product/belame/milacro-topo.png'
           />
 

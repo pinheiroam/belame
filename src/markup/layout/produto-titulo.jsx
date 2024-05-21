@@ -5,12 +5,12 @@ import React, { Component } from 'react';
 class ProdutoTitulo extends Component {
   render() {
     return (
-      <div className="page-content bg-white rubik-font">
+      <div className="page-content bg-white rubik-font" style={{ backgroundImage: "url(" + '../images/background/bg4.png' + ")", backgroundPosition: "top right", backgroundRepeat: "no-repeat" }}>
         <br></br>
         <br class="d-none d-sm-block"></br>
         <br class="d-none d-sm-block"></br>
         <div
-          className="section-full content-inner bg-white tax-info-chart"
+          className="section-full content-inner tax-info-chart"
           style={{
             backgroundImage: `url(${this.props.backgroundImage})`,
             backgroundPosition: 'top right',
@@ -22,7 +22,7 @@ class ProdutoTitulo extends Component {
                 className="wow zoomIn col-lg-6 wow fadeInUp text-center"
                 data-wow-delay="1s"
                 data-wow-duration="3s">
-                  <img src={this.props.image} alt={'Imagem do produto ' + this.props.name} />
+                  <img src={this.props.image} alt={'Imagem do produto ' + this.props.name} style={{maxWidth: 420}} />
               </div>
               <div className="section-head text-left title-bx col-lg-6 pt-5 ">
                 <h4
