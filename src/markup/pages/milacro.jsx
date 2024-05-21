@@ -19,11 +19,11 @@ class Milacro extends Component {
 
           <ProdutoTitulo
             name='Milacro'
-            text='A solução que suas pontas precisavam. Aplicá-lo as pontas ressecadas faz com que ele entre em ação hidratando e repondo óleos essenciais para a sua recuperação. Sua composição tem ativos que ajudam na maciez, brilho e frizz do cabelo, deixando-o fortificado e pronto pra mais um dia de arrasar.'
+            text={["A solução que suas pontas precisavam. Aplicá-lo as pontas ressecadas faz com que ele entre em ação hidratando e repondo óleos essenciais para a sua recuperação. Sua composição tem ativos que ajudam na maciez, brilho e frizz do cabelo, deixando-o fortificado e pronto pra mais um dia de arrasar.", <br></br>,,<br></br>,"O Milacro deve ser usado na finalização do seu cabelo para brilho e perfumes incríveis."]}
             image='images/product/belame/milacro-topo.png'
           />
 
-          <ProdutoPassos
+          {/* <ProdutoPassos
             texto='Cada profissional deve avaliar o estado do cabelo da cliente. Caso avalie positivamente para aplicação do produto, deve escovar o cabelo completamente e deixar o produto agir somente por meia hora.'
             passoCard={[
               <PassoCard
@@ -37,7 +37,7 @@ class Milacro extends Component {
                 descricao='Passe na mao'
               ></PassoCard>,
             ]}
-          />
+          /> */}
           <ProdutosMosaico />
         </div>
         <Footer5 />
