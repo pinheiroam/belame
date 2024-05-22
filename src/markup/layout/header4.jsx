@@ -100,6 +100,7 @@ class Header4 extends Component {
                         <li><a href={'./extremeorganic'}>Extreme Organic</a></li>
                         <li><a href={'./lissgloss'}>Plastic Liss Gloss</a></li>
                         <li><a href={'./coffeeliss'}>Coffee Liss</a></li>
+                        <li><a href={'./milacro'}>Milacro</a></li>
                         <li><Link to={'./#nossos-produtos'} className='dez-page' onClick={() => this.onToggle()}
                                   type='button'
                                   data-toggle='collapse'
