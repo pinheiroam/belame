@@ -29,8 +29,8 @@ class Header4 extends Component {
   render() {
     return (
       <>
-        <header className='site-header header-transparent header mo-left header-seo' id='topo'>
-          <div className='top-bar'>
+        <header className='site-header header-transparent bg-white header mo-left header-seo' id='topo'>
+          <div className='top-bar bg-white'>
             <div className='container'>
               <div className='row d-flex justify-content-end'>
                 <div className='dlab-topbar-right'>

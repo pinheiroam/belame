@@ -15,7 +15,7 @@ class PrivacyPolicy extends Component {
                 <br class="d-none d-sm-block"></br>
                 <br class="d-none d-sm-block"></br>
 
-                <div class="page-content bg-white">
+                <div class="page-content bg-white rubik-font">
                     <div class="content-area">
                         <div class="container">
                             <div class="row">
