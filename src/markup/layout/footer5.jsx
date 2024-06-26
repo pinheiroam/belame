@@ -14,10 +14,10 @@ class Footer1 extends Component {
                                         <h5 className="m-b30 text-white">Belame</h5>
                                         <ul>
                                             <li><Link to={'./#'}>Home</Link></li>
-                                            <li><Link to="./#nossos-produtos">Nossos Produtos</Link></li>
-                                            <li><Link to="./#passoapasso">Passo a Passo</Link></li>
-                                            <li><Link to="./#fale-conosco">Contato</Link></li>
-                                            <li><Link to="./">Política de Privacidade</Link></li>
+                                            <li><Link to="/#nossos-produtos">Nossos Produtos</Link></li>
+                                            <li><Link to="/#passoapasso">Passo a Passo</Link></li>
+                                            <li><Link to="/#fale-conosco">Contato</Link></li>
+                                            <li><Link to="./privacy-policy">Política de Privacidade</Link></li>
                                         </ul>
                                     </div>
                                 </div>

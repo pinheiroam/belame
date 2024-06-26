@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
 import Header4 from '../layout/header4';
 import Footer5 from '../layout/footer5';
-import ProjectCarousel from '../element/project-carousel';
 
 
 class PrivacyPolicy extends Component {
