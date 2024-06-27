@@ -207,12 +207,12 @@ class Belame extends Component {
                                 </div>
                                 <div>
                                     <p>BELAME, atualmente conta com os mais diversos produtos de alinhamento térmico capilar (as progressivas), manutenção, hidratação e restauração dos fios. Entre em contato conosco pelos seguintes telefones e WhatsApp:</p>
-                                    <ul style={{listStyleType: 'none'}}>
+                                    {/*<ul style={{listStyleType: 'none'}}>
                                         <li>Marco Aurélio: +55 67 9 8199-7782</li>
                                         <li>Maurício: +55 67 9 9971-2775</li>
                                         <li>Rosana: +55 67 9 9945-6263</li>
                                     </ul>
-                                    <p>Para efetuar pedido ou em caso de dúvidas. Frete gratuito nas Cidades de Dourados e Campo Grande.</p>
+                                    <p>Para efetuar pedido ou em caso de dúvidas. Frete gratuito nas Cidades de Dourados e Campo Grande.</p>*/} 
                                 </div>
                             </div>
                         </div>
