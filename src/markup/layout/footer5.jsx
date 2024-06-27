@@ -61,11 +61,11 @@ class Footer1 extends Component {
                                         <h5 className="m-b30 text-white ">Fale Conosco</h5>
                                         <ul>
                                             {/* <li><i className="ti-location-pin"></i><strong>address</strong> demo address #8901 Marmora Road Chi Minh City, Vietnam </li> */}
-                                            <li><i className="ti-mobile"></i><strong>Telefones</strong>
+                                            {/*<li><i className="ti-mobile"></i><strong>Telefones</strong>
                                                 Marco Aurélio: +55 67 9 8199-7782<br></br>
                                                 Maurício: +55 67 9 9971-2775<br></br>
                                                 Rosana: +55 67 9 9945-6263
-                                            </li>
+                                            </li>*/} 
                                             <li style={{textTransform: 'lowercase'}}><i className="ti-email"></i><strong>email</strong> belame@gmail.com</li>
                                         </ul>
                                     </div>
