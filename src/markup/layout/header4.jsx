@@ -29,8 +29,8 @@ class Header4 extends Component {
   render() {
     return (
       <>
-        <header className='site-header header-transparent header mo-left header-seo' id='topo'>
-          <div className='top-bar'>
+        <header className='site-header header-transparent bg-white header mo-left header-seo' id='topo'>
+          <div className='top-bar bg-white'>
             <div className='container'>
               <div className='row d-flex justify-content-end'>
                 <div className='dlab-topbar-right'>
@@ -100,6 +100,7 @@ class Header4 extends Component {
                         <li><a href={'./extremeorganic'}>Extreme Organic</a></li>
                         <li><a href={'./lissgloss'}>Plastic Liss Gloss</a></li>
                         <li><a href={'./coffeeliss'}>Coffee Liss</a></li>
+                        <li><a href={'./milacro'}>Milacro</a></li>
                         <li><Link to={'./#nossos-produtos'} className='dez-page' onClick={() => this.onToggle()}
                                   type='button'
                                   data-toggle='collapse'
